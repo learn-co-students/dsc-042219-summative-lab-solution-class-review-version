@@ -3,6 +3,8 @@
 ## Please open the .ipynb file to view the edited solution
 This is the summative lab review notebook we went through in class on 5/24
 
+\> Original lab README.md below <
+
 ---
 
 ## Module 2 Summative Lab
