@@ -1,6 +1,6 @@
 # dsc-042219-summative-lab-solution-class-review-version
 
-## Please open the .ipynb file to view the edited solution
+## Please open the included .ipynb file to view the edited solution
 This is the summative lab review notebook we went through in class on 5/24
 
 \> Original lab README.md below <
